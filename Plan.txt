@@ -1,0 +1,15 @@
+P001	Business Workplace Communication	180
+P002	Business Math Skills	140
+P003	Business Writing Skills	140
+P004	Business Presentation Skills	120
+P005	Winning through Customer Service	108
+P006	Dealing with Difficult Customers	108
+P007	Delivering Customer Focused Service	108
+P008	Customer Star Service	108
+P009	Employee Review Training	150
+P010	Diversity Training	150
+P011	Harassment Training	150
+P012	Customer Orientated Selling	140
+P013	Market Research	120
+P014	Negotiating	120
+P015	Upselling	120
